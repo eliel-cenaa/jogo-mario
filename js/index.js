@@ -36,4 +36,4 @@ const loop = setInterval(() => {
 
 
 
-document.addEventListener('keydown',pulo)
+document.addEventListener('click',pulo)
